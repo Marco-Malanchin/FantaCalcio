@@ -25,3 +25,16 @@ C:\Users\Utente\Desktop\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.csproj.C
 C:\Users\Utente\Desktop\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.dll
 C:\Users\Utente\Desktop\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.pdb
 C:\Users\Utente\Desktop\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.genruntimeconfig.cache
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\bin\Debug\netcoreapp3.1\fantacalcio.exe
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\bin\Debug\netcoreapp3.1\fantacalcio.deps.json
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\bin\Debug\netcoreapp3.1\fantacalcio.runtimeconfig.json
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\bin\Debug\netcoreapp3.1\fantacalcio.runtimeconfig.dev.json
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\bin\Debug\netcoreapp3.1\fantacalcio.dll
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\bin\Debug\netcoreapp3.1\fantacalcio.pdb
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.AssemblyInfoInputs.cache
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.AssemblyInfo.cs
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.dll
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.pdb
+C:\Users\Studente\Desktop\FantaCalcio-main\fantacalcio\obj\Debug\netcoreapp3.1\fantacalcio.genruntimeconfig.cache
